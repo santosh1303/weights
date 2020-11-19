@@ -16,3 +16,4 @@ Idea is to:
   - Run automated performance tests in a slave machine
   - Run automated accessibility tests in a slave machine
   - Publish results
+  - Host in Azure. (azure.microsoft.com)
