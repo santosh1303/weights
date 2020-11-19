@@ -16,4 +16,4 @@ Idea is to:
   - Run automated performance tests in a slave machine
   - Run automated accessibility tests in a slave machine
   - Publish results
-  - Host in Azure. (azure.microsoft.com)
+  - Host in Azure. (azure.microsoft.com) (https://portal.azure.com/?quickstart=true#blade/Microsoft_Azure_Resources/QuickstartCenterBlade)
