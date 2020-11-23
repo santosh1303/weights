@@ -1,2 +1,3 @@
-# Prerequisites
-*.xlsx
+# Node modules
+/ReactJs/skills/node_modules/
+/ReactJS2/APP/node_modules/
