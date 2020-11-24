@@ -17,3 +17,5 @@ Idea is to:
   - Run automated accessibility tests in a slave machine
   - Publish results
   - Host in Azure. (azure.microsoft.com) (https://portal.azure.com/?quickstart=true#blade/Microsoft_Azure_Resources/QuickstartCenterBlade)
+
+Implemented these applications with node version v12.13.1 and npm version 6.12.1.
